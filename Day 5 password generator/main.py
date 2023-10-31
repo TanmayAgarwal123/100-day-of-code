@@ -1,4 +1,5 @@
 import random
+
 def password():
     print("Welcome to the Password Generator!")
     letters = int(input("How many letters would you like in your password?\n"))
