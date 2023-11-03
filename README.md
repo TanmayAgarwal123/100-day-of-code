@@ -1,105 +1,111 @@
 # 100-day-of-code
-<h3>
-<style color="checkbox-green" "text- black">
-* [x] Day 1  
-* [x] Day 2
-* [x] Day 3
-* [x] Day 4
-* [x] Day 5
-* [x] Day 6  
-* [x] Day 7
-* [ ] Day 8
-* [ ] Day 9
-* [ ] Day 10
-* [ ] Day 11
-* [ ] Day 12
-* [ ] Day 13
-* [ ] Day 14
-* [ ] Day 15
-* [ ] Day 16
-* [ ] Day 17
-* [ ] Day 18
-* [ ] Day 19
-* [ ] Day 20
-* [ ] Day 21
-* [ ] Day 22
-* [ ] Day 23
-* [ ] Day 24
-* [ ] Day 25
-* [ ] Day 26
-* [ ] Day 27
-* [ ] Day 28
-* [ ] Day 29
-* [ ] Day 30
-* [ ] Day 31
-* [ ] Day 32
-* [ ] Day 33
-* [ ] Day 34
-* [ ] Day 35
-* [ ] Day 36
-* [ ] Day 37
-* [ ] Day 38
-* [ ] Day 39
-* [ ] Day 40
-* [ ] Day 41
-* [ ] Day 42
-* [ ] Day 43
-* [ ] Day 44
-* [ ] Day 45
-* [ ] Day 46
-* [ ] Day 47
-* [ ] Day 48
-* [ ] Day 49
-* [ ] Day 50
-* [ ] Day 51
-* [ ] Day 52
-* [ ] Day 53
-* [ ] Day 54
-* [ ] Day 55
-* [ ] Day 56
-* [ ] Day 57
-* [ ] Day 58
-* [ ] Day 59
-* [ ] Day 60
-* [ ] Day 61
-* [ ] Day 62
-* [ ] Day 63
-* [ ] Day 64
-* [ ] Day 65
-* [ ] Day 66
-* [ ] Day 67
-* [ ] Day 68
-* [ ] Day 69
-* [ ] Day 70
-* [ ] Day 71
-* [ ] Day 72
-* [ ] Day 73
-* [ ] Day 74
-* [ ] Day 75
-* [ ] Day 76
-* [ ] Day 77
-* [ ] Day 78
-* [ ] Day 79
-* [ ] Day 80
-* [ ] Day 81
-* [ ] Day 82
-* [ ] Day 83
-* [ ] Day 84
-* [ ] Day 85
-* [ ] Day 86
-* [ ] Day 87
-* [ ] Day 88
-* [ ] Day 89
-* [ ] Day 90
-* [ ] Day 91
-* [ ] Day 92
-* [ ] Day 93
-* [ ] Day 94
-* [ ] Day 95
-* [ ] Day 96
-* [ ] Day 97
-* [ ] Day 98
-* [ ] Day 99
-* [ ] Day 100
-</style>
-</h3>
+<!DOCTYPE html>
+<html>
+<body>
+    <h3></h3>
+    <ul>
+        <li><span>Day 1</span> <span>&#10004;</span></li>
+        <li><span>Day 2</span> <span>&#10004;</span></li>
+        <li><span>Day 3</span> <span>&#10004;</span></li>
+        <li><span>Day 4</span> <span>&#10004;</span></li>
+        <li><span>Day 5</span> <span>&#10004;</span></li>
+        <li><span>Day 6</span> <span>&#10004;</span></li>
+        <li><span>Day 7</span> <span>&#10004;</span></li>
+        <li><span>Day 8</span> <span>&#9744;</span></li>
+        <li><span>Day 9</span> <span>&#9744;</span></li>
+        <li><span>Day 10</span> <span>&#9744;</span></li>
+        <li><span>Day 11</span> <span>&#9744;</span></li>
+        <li><span>Day 12</span> <span>&#9744;</span></li>
+        <li><span>Day 13</span> <span>&#9744;</span></li>
+        <li><span>Day 14</span> <span>&#9744;</span></li>
+        <li><span>Day 15</span> <span>&#9744;</span></li>
+        <li><span>Day 16</span> <span>&#9744;</span></li>
+        <li><span>Day 17</span> <span>&#9744;</span></li>
+        <li><span>Day 18</span> <span>&#9744;</span></li>
+        <li><span>Day 19</span> <span>&#9744;</span></li>
+        <li><span>Day 20</span> <span>&#9744;</span></li>
+        <li><span>Day 21</span> <span>&#9744;</span></li>
+        <li><span>Day 22</span> <span>&#9744;</span></li>
+        <li><span>Day 23</span> <span>&#9744;</span></li>
+        <li><span>Day 24</span> <span>&#9744;</span></li>
+        <li><span>Day 25</span> <span>&#9744;</span></li>
+        <li><span>Day 26</span> <span>&#9744;</span></li>
+        <li><span>Day 27</span> <span>&#9744;</span></li>
+        <li><span>Day 28</span> <span>&#9744;</span></li>
+        <li><span>Day 29</span> <span>&#9744;</span></li>
+        <li><span>Day 30</span> <span>&#9744;</span></li>
+        <li><span>Day 31</span> <span>&#9744;</span></li>
+        <li><span>Day 32</span> <span>&#9744;</span></li>
+        <li><span>Day 33</span> <span>&#9744;</span></li>
+        <li><span>Day 34</span> <span>&#9744;</span></li>
+        <li><span>Day 35</span> <span>&#9744;</span></li>
+        <li><span>Day 36</span> <span>&#9744;</span></li>
+        <li><span>Day 37</span> <span>&#9744;</span></li>
+        <li><span>Day 38</span> <span>&#9744;</span></li>
+        <li><span>Day 39</span> <span>&#9744;</span></li>
+        <li><span>Day 40</span> <span>&#9744;</span></li>
+        <li><span>Day 41</span> <span>&#9744;</span></li>
+        <li><span>Day 42</span> <span>&#9744;</span></li>
+        <li><span>Day 43</span> <span>&#9744;</span></li>
+        <li><span>Day 44</span> <span>&#9744;</span></li>
+        <li><span>Day 45</span> <span>&#9744;</span></li>
+        <li><span>Day 46</span> <span>&#9744;</span></li>
+        <li><span>Day 47</span> <span>&#9744;</span></li>
+        <li><span>Day 48</span> <span>&#9744;</span></li>
+        <li><span>Day 49</span> <span>&#9744;</span></li>
+        <li><span>Day 50</span> <span>&#9744;</span></li>
+        <li><span>Day 51</span> <span>&#9744;</span></li>
+        <li><span>Day 52</span> <span>&#9744;</span></li>
+        <li><span>Day 53</span> <span>&#9744;</span></li>
+        <li><span>Day 54</span> <span>&#9744;</span></li>
+        <li><span>Day 55</span> <span>&#9744;</span></li>
+        <li><span>Day 56</span> <span>&#9744;</span></li>
+        <li><span>Day 57</span> <span>&#9744;</span></li>
+        <li><span>Day 58</span> <span>&#9744;</span></li>
+        <li><span>Day 59</span> <span>&#9744;</span></li>
+        <li><span>Day 60</span> <span>&#9744;</span></li>
+        <li><span>Day 61</span> <span>&#9744;</span></li>
+        <li><span>Day 62</span> <span>&#9744;</span></li>
+        <li><span>Day 63</span> <span>&#9744;</span></li>
+        <li><span>Day 64</span> <span>&#9744;</span></li>
+        <li><span>Day 65</span> <span>&#9744;</span></li>
+        <li><span>Day 66</span> <span>&#9744;</span></li>
+        <li><span>Day 67</span> <span>&#9744;</span></li>
+        <li><span>Day 68</span> <span>&#9744;</span></li>
+        <li><span>Day 69</span> <span>&#9744;</span></li>
+        <li><span>Day 70</span> <span>&#9744;</span></li>
+        <li><span>Day 71</span> <span>&#9744;</span></li>
+        <li><span>Day 72</span> <span>&#9744;</span></li>
+        <li><span>Day 73</span> <span>&#9744;</span></li>
+        <li><span>Day 74</span> <span>&#9744;</span></li>
+        <li><span>Day 75</span> <span>&#9744;</span></li>
+        <li><span>Day 76</span> <span>&#9744;</span></li>
+        <li><span>Day 77</span> <span>&#9744;</span></li>
+        <li><span>Day 78</span> <span>&#9744;</span></li>
+        <li><span>Day 79</span> <span>&#9744;</span></li>
+        <li><span>Day 80</span> <span>&#9744;</span></li>
+        <li><span>Day 81</span> <span>&#9744;</span></li>
+        <li><span>Day 82</span> <span>&#9744;</span></li>
+        <li><span>Day 83</span> <span>&#9744;</span></li>
+        <li><span>Day 84</span> <span>&#9744;</span></li>
+        <li><span>Day 85</span> <span>&#9744;</span></li>
+        <li><span>Day 86</span> <span>&#9744;</span></li>
+        <li><span>Day 87</span> <span>&#9744;</span></li>
+        <li><span>Day 88</span> <span>&#9744;</span></li>
+        <li><span>Day 89</span> <span>&#9744;</span></li>
+        <li><span>Day 90</span> <span>&#9744;</span></li>
+        <li><span>Day 91</span> <span>&#9744;</span></li>
+        <li><span>Day 92</span> <span>&#9744;</span></li>
+        <li><span>Day 93</span> <span>&#9744;</span></li>
+        <li><span>Day 94</span> <span>&#9744;</span></li>
+        <li><span>Day 95</span> <span>&#9744;</span></li>
+        <li><span>Day 96</span> <span>&#9744;</span></li>
+        <li><span>Day 97</span> <span>&#9744;</span></li>
+        <li><span>Day 98</span> <span>&#9744;</span></li>
+        <li><span>Day 99</span> <span>&#9744;</span></li>
+        <li><span>Day 100</span> <span>&#9744;</span></li>
+    </ul>
+</body>
+</html>
+
+
