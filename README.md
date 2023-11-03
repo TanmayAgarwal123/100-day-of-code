@@ -1,4 +1,6 @@
 # 100-day-of-code
+<h3>
+<style color="checkbox-green" "text- black">
 * [x] Day 1  
 * [x] Day 2
 * [x] Day 3
@@ -99,3 +101,5 @@
 * [ ] Day 98
 * [ ] Day 99
 * [ ] Day 100
+</style>
+</h3>
