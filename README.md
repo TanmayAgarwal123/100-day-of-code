@@ -11,7 +11,7 @@
         <li><span>Day 5</span> <span>&#10004;</span></li>
         <li><span>Day 6</span> <span>&#10004;</span></li>
         <li><span>Day 7</span> <span>&#10004;</span></li>
-        <li><span>Day 8</span> <span>&#9744;</span></li>
+        <li><span>Day 8</span> <span>&#10004;</span></li>
         <li><span>Day 9</span> <span>&#9744;</span></li>
         <li><span>Day 10</span> <span>&#9744;</span></li>
         <li><span>Day 11</span> <span>&#9744;</span></li>
