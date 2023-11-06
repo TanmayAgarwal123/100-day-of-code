@@ -1,3 +1,5 @@
+# Url: https://reeborg.ca/index_en.html
+# path: 100%20day%20of%20code/Day%206%20escaping%20the%20maze/main.py
 #lost in a maze
 """
 def turn_right():

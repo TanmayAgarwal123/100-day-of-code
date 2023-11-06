@@ -1,3 +1,4 @@
+#path: 100%20day%20of%20code/Day%204%20rock%20paper%20scissors/main.py
 import random
 
 rock = '''
@@ -48,3 +49,4 @@ elif user_choice > computer_choice:
   print("You win!")
 elif computer_choice == user_choice:
   print("It's a draw")
+

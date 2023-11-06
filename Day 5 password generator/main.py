@@ -1,3 +1,4 @@
+#path: 100%20day%20of%20code/Day%205%20password%20generator/main.py
 import random
 
 def password():
@@ -19,3 +20,4 @@ def password():
     
 if __name__ == "__main__":
     password()
+

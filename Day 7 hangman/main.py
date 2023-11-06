@@ -1,3 +1,4 @@
+#path: 100%20day%20of%20code/Day%207%20hangman/main.py
 import random
 from hangman_words import word_list
 from hangman_art import logo
