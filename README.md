@@ -20,7 +20,7 @@
         <li><span>Day 14</span> <span>&#10004;</span></li>
         <li><span>Day 15</span> <span>&#10004;</span></li>
         <li><span>Day 16</span> <span>&#10004;</span></li>
-        <li><span>Day 17</span> <span>&#9744;</span></li>
+        <li><span>Day 17</span> <span>&#10004;</span></li>
         <li><span>Day 18</span> <span>&#9744;</span></li>
         <li><span>Day 19</span> <span>&#9744;</span></li>
         <li><span>Day 20</span> <span>&#9744;</span></li>
