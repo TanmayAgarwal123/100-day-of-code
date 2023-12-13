@@ -22,14 +22,14 @@
         <li><span>Day 16</span> <span>&#10004;</span></li>
         <li><span>Day 17</span> <span>&#10004;</span></li>
         <li><span>Day 18</span> <span>&#10004;</span></li>
-        <li><span>Day 19</span> <span>&#9744;</span></li>
-        <li><span>Day 20</span> <span>&#9744;</span></li>
-        <li><span>Day 21</span> <span>&#9744;</span></li>
-        <li><span>Day 22</span> <span>&#9744;</span></li>
-        <li><span>Day 23</span> <span>&#9744;</span></li>
-        <li><span>Day 24</span> <span>&#9744;</span></li>
-        <li><span>Day 25</span> <span>&#9744;</span></li>
-        <li><span>Day 26</span> <span>&#9744;</span></li>
+        <li><span>Day 19</span> <span>&#10004;</span></li>
+        <li><span>Day 20</span> <span>&#10004;</span></li>
+        <li><span>Day 21</span> <span>&#10004;</span></li>
+        <li><span>Day 22</span> <span>&#10004;</span></li>
+        <li><span>Day 23</span> <span>&#10004;</span></li>
+        <li><span>Day 24</span> <span>&#10004;</span></li>
+        <li><span>Day 25</span> <span>&#10004;</span></li>
+        <li><span>Day 26</span> <span>&#10004;</span></li>
         <li><span>Day 27</span> <span>&#9744;</span></li>
         <li><span>Day 28</span> <span>&#9744;</span></li>
         <li><span>Day 29</span> <span>&#9744;</span></li>
