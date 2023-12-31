@@ -30,8 +30,8 @@
         <li><span>Day 24</span> <span>&#10004;</span></li>
         <li><span>Day 25</span> <span>&#10004;</span></li>
         <li><span>Day 26</span> <span>&#10004;</span></li>
-        <li><span>Day 27</span> <span>&#9744;</span></li>
-        <li><span>Day 28</span> <span>&#9744;</span></li>
+        <li><span>Day 27</span> <span>&#10004;</span></li>
+        <li><span>Day 28</span> <span>&#10004;</span></li>
         <li><span>Day 29</span> <span>&#9744;</span></li>
         <li><span>Day 30</span> <span>&#9744;</span></li>
         <li><span>Day 31</span> <span>&#9744;</span></li>
