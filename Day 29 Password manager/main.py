@@ -16,7 +16,8 @@ def generate_password():
     shuffle(password_list)
 
     password = "".join(password_list)
-    print(f"Your password is: {password}")
+    password_entry.insert(0, password)
+    
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 
 def save():
