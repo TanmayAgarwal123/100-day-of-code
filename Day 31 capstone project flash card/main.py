@@ -7,9 +7,11 @@ current_card = {}
 to_learn = {}
 
 try:
-    data = pandas.read_csv("Day 31 capstone project flash card/data/words_to_learn.csv")
+    #data = pandas.read_csv("Day 31 capstone project flash card/data/french_words.csv")
+    data = pandas.read_csv("Day 31 capstone project flash card/data/words_to_learn.csv", encoding='ISO-8859-1')
+
 except FileNotFoundError:
-    original_data = pandas.read_csv("Day 31 capstone project flash card/data/french_words.csv")
+    original_data = pandas.read_csv("Day 31 capstone project flash card/data/.csv")
     print(original_data)
     to_learn = original_data.to_dict(orient="records")
 else:
@@ -20,8 +22,9 @@ def next_card():
     global current_card, flip_timer
     window.after_cancel(flip_timer)
     current_card = random.choice(to_learn)
-    canvas.itemconfig(card_title, text="French", fill="black")
-    canvas.itemconfig(card_word, text=current_card["French"], fill="black")
+    #use the languages among SPANISH/FRENCH/GERMAN/ENGLISH
+    canvas.itemconfig(card_title, text="SPANISH", fill="black")
+    canvas.itemconfig(card_word, text=current_card["SPANISH"], fill="black")
     canvas.itemconfig(card_background, image=card_front_img)
     flip_timer = window.after(3000, func=flip_card)
 
