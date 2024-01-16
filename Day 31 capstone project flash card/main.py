@@ -23,8 +23,8 @@ def next_card():
     window.after_cancel(flip_timer)
     current_card = random.choice(to_learn)
     #use the languages among SPANISH/FRENCH/GERMAN/ENGLISH
-    canvas.itemconfig(card_title, text="SPANISH", fill="black")
-    canvas.itemconfig(card_word, text=current_card["SPANISH"], fill="black")
+    canvas.itemconfig(card_title, text="GERMAN", fill="black")
+    canvas.itemconfig(card_word, text=current_card["GERMAN"], fill="black")
     canvas.itemconfig(card_background, image=card_front_img)
     flip_timer = window.after(3000, func=flip_card)
 
