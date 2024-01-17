@@ -46,14 +46,14 @@ print(diff_percent)
     # Instead of printing ("Get News"), actually get the first 3 news pieces for the COMPANY_NAME. 
 
 #TODO 6. - Instead of printing ("Get News"), use the News API to get articles related to the COMPANY_NAME.
-if diff_percent > 5:
+if diff_percent > 1:
     news_params = {
         "apiKey": NEWS_API_KEY,
         "qInTitle": COMPANY_NAME
     }
     news_response = requests.get(NEWS_ENDPOINT, params=news_params)
     articals = news_response.json()["articles"]
-    print(articals)
+    #print(articals)
     
 #TODO 7. - Use Python slice operator to create a list that contains the first 3 articles. Hint: https://stackoverflow.com/questions/509211/understanding-slice-notation
     three_articals = articals[:3]
@@ -64,6 +64,7 @@ if diff_percent > 5:
     #to send a separate message with each article's title and description to your phone number. 
 
 #TODO 8. - Create a new list of the first 3 article's headline and description using list comprehension.
+formatted_articles = [f"Headline: {article['title']}. \nBrief: {article['description']}" for article in three_articals]
 
 #TODO 9. - Send each article as a separate message via Twilio. 
 
