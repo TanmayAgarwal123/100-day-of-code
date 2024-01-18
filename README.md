@@ -33,14 +33,14 @@
         <li><span>Day 27</span> <span>&#10004;</span></li>
         <li><span>Day 28</span> <span>&#10004;</span></li>
         <li><span>Day 29</span> <span>&#10004;</span></li>
-        <li><span>Day 30</span> <span>&#9744;</span></li>
-        <li><span>Day 31</span> <span>&#9744;</span></li>
-        <li><span>Day 32</span> <span>&#9744;</span></li>
-        <li><span>Day 33</span> <span>&#9744;</span></li>
-        <li><span>Day 34</span> <span>&#9744;</span></li>
-        <li><span>Day 35</span> <span>&#9744;</span></li>
-        <li><span>Day 36</span> <span>&#9744;</span></li>
-        <li><span>Day 37</span> <span>&#9744;</span></li>
+        <li><span>Day 30</span> <span>&#10004;</span></li>
+        <li><span>Day 31</span> <span>&#10004;</span></li>
+        <li><span>Day 32</span> <span>&#10004;</span></li>
+        <li><span>Day 33</span> <span>&#10004;</span></li>
+        <li><span>Day 34</span> <span>&#10004;</span></li>
+        <li><span>Day 35</span> <span>&#10004;</span></li>
+        <li><span>Day 36</span> <span>&#10004;</span></li>
+        <li><span>Day 37</span> <span>&#10004;</span></li>
         <li><span>Day 38</span> <span>&#9744;</span></li>
         <li><span>Day 39</span> <span>&#9744;</span></li>
         <li><span>Day 40</span> <span>&#9744;</span></li>
