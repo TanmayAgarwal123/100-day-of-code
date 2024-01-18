@@ -37,16 +37,16 @@ today = datetime.now()
 
 pixel_data = {
     "date": today.strftime("%Y%m%d"),
-    "quantity": "4.2",
+    "quantity": input("How many hours did you code today? "),
 }
 
-# response = requests.post(url=pixel_creation_endpoint, json=pixel_data, headers=headers)
-# print(response.text)
-
-update_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}/{today.strftime('%Y%m%d')}"
-new_pixel_data = {
-    "quantity": "4.5",
-}
-
-response = requests.put(url=update_endpoint, json=new_pixel_data, headers=headers)
+response = requests.post(url=pixel_creation_endpoint, json=pixel_data, headers=headers)
 print(response.text)
+
+# update_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}/{today.strftime('%Y%m%d')}"
+# new_pixel_data = {
+#     "quantity": "4.5",
+# }
+
+# response = requests.put(url=update_endpoint, json=new_pixel_data, headers=headers)
+# print(response.text)
