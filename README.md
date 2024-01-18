@@ -41,7 +41,7 @@
         <li><span>Day 35</span> <span>&#10004;</span></li>
         <li><span>Day 36</span> <span>&#10004;</span></li>
         <li><span>Day 37</span> <span>&#10004;</span></li>
-        <li><span>Day 38</span> <span>&#9744;</span></li>
+        <li><span>Day 38</span> <span>&#10004;</span></li>
         <li><span>Day 39</span> <span>&#9744;</span></li>
         <li><span>Day 40</span> <span>&#9744;</span></li>
         <li><span>Day 41</span> <span>&#9744;</span></li>
