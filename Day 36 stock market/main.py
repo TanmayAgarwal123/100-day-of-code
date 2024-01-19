@@ -1,4 +1,6 @@
 import requests
+import os
+from decouple import config
 #from twilio.rest import Client
 
 
@@ -8,11 +10,11 @@ import requests
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 
+STOCK_API_KEY = config('STOCK_API_KEY')
+NEWS_API_KEY = config('NEWS_API_KEY')
+
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-
-STOCK_API_KEY = "UDI5SCO2CMLGKUIW"
-NEWS_API_KEY = "4186211d26af4a01a29e95c9547f3709"
 
     ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
 # When stock price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
