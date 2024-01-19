@@ -1,16 +1,17 @@
+import os
+from decouple import config
 import requests
 from datetime import datetime
 
-API_KEY = "4c079c06cdce18c0f6808bd0afcfa134"
-APP_ID = "47a0643d"
-
-GENDER = "male"
-WEIGHT_KG = 94
-HEIGHT_CM = 175
-AGE = 21
-
-SHEETY_USERNAME = "Tanmay"
-SHEETY_PASSWORD = "tanmay123"
+# Load environment variables using python-decouple
+API_KEY = config('API_KEY')
+APP_ID = config('APP_ID')
+GENDER = config('GENDER')
+WEIGHT_KG = int(config('WEIGHT_KG'))
+HEIGHT_CM = int(config('HEIGHT_CM'))
+AGE = int(config('AGE'))
+SHEETY_USERNAME = config('SHEETY_USERNAME')
+SHEETY_PASSWORD = config('SHEETY_PASSWORD')
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 exercise_text = input("Tell me which exercises you did: ")
