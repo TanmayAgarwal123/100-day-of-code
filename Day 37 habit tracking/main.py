@@ -1,9 +1,11 @@
 import requests
 from datetime import datetime
+import os
+from decouple import config
 
-USERNAME = "tanmay10"
-TOKEN = "tanmayagarwal"
-GRAPH_ID = "graph1"
+USERNAME = config('USERNAME')
+TOKEN = config('TOKEN')
+GRAPH_ID = config('GRAPH_ID')
 #website = https://pixe.la/v1/users/tanmay10/graphs/graph1.html
 
 pixela_endpoint = "https://pixe.la/v1/users"
