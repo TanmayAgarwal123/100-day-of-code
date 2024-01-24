@@ -44,10 +44,10 @@
         <li><span>Day 38</span> <span>&#10004;</span></li>
         <li><span>Day 39</span> <span>&#10004;</span></li>
         <li><span>Day 40</span> <span>&#10004;</span></li>
-        <li><span>Day 41</span> <span>&#9744;</span></li>
-        <li><span>Day 42</span> <span>&#9744;</span></li>
-        <li><span>Day 43</span> <span>&#9744;</span></li>
-        <li><span>Day 44</span> <span>&#9744;</span></li>
+        <li><span>Day 41</span> <span>&#10004;</span></li>
+        <li><span>Day 42</span> <span>&#10004;</span></li>
+        <li><span>Day 43</span> <span>&#10004;</span></li>
+        <li><span>Day 44</span> <span>&#10004;</span></li>
         <li><span>Day 45</span> <span>&#9744;</span></li>
         <li><span>Day 46</span> <span>&#9744;</span></li>
         <li><span>Day 47</span> <span>&#9744;</span></li>
