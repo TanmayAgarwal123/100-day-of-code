@@ -7,3 +7,4 @@ with open(file_path, encoding="utf-8") as file:
 
 soup = BeautifulSoup(contents, "html.parser")
 print(soup.title)
+print(soup.title.string)
