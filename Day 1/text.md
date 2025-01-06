@@ -1,0 +1,1 @@
+it was all about basics and resources, no project was actually made.
