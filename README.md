@@ -5,10 +5,10 @@
     <h3></h3>
     <ul>
         <li><span>Day 1</span> <span>&#10004;</span></li>
-        <li><span>Day 2</span> <span>&#10044;</span></li>
+        <li><span>Day 2</span> <span>&#10004;</span></li>
         <li><span>Day 3</span> <span>&#10004;</span></li>
-        <li><span>Day 4</span> <span>&#9744;</span></li>
-        <li><span>Day 5</span> <span>&#9744;</span></li>
+        <li><span>Day 4</span> <span>&#10004;</span></li>
+        <li><span>Day 5</span> <span>&#10004;</span></li>
         <li><span>Day 6</span> <span>&#9744;</span></li>
         <li><span>Day 7</span> <span>&#9744;</span></li>
         <li><span>Day 8</span> <span>&#9744;</span></li>
