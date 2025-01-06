@@ -1,4 +1,4 @@
-#path: 100%20day%20of%20code/Day%203%20tresure%20hunt/main.py
+#path: 100%20Days%20100%20Projects/Day%203%20tresure%20hunt/main.py
 print('''
 *******************************************************************************
           |                   |                  |                     |

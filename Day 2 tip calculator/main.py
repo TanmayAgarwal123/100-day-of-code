@@ -1,4 +1,4 @@
-#path: 100%20day%20of%20code/Day%202%20tip%20calculator/main.py
+#path: 100%20Days%20100%20Projects/Day%202%20tip%20calculator/main.py
 print("Welcome to the tip calculator.")
 bill = float(input("What was the total bill? Rs."))
 people = int(input("How many people to split the bill? "))
